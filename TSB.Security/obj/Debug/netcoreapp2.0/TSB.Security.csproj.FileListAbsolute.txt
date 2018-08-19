@@ -1,0 +1,8 @@
+/Users/crislei/Projects/VS/TSB.Security/TSB.Security/bin/Debug/netcoreapp2.0/TSB.Security.deps.json
+/Users/crislei/Projects/VS/TSB.Security/TSB.Security/bin/Debug/netcoreapp2.0/TSB.Security.dll
+/Users/crislei/Projects/VS/TSB.Security/TSB.Security/bin/Debug/netcoreapp2.0/TSB.Security.pdb
+/Users/crislei/Projects/VS/TSB.Security/TSB.Security/obj/Debug/netcoreapp2.0/TSB.Security.csproj.CoreCompileInputs.cache
+/Users/crislei/Projects/VS/TSB.Security/TSB.Security/obj/Debug/netcoreapp2.0/TSB.Security.AssemblyInfoInputs.cache
+/Users/crislei/Projects/VS/TSB.Security/TSB.Security/obj/Debug/netcoreapp2.0/TSB.Security.AssemblyInfo.cs
+/Users/crislei/Projects/VS/TSB.Security/TSB.Security/obj/Debug/netcoreapp2.0/TSB.Security.dll
+/Users/crislei/Projects/VS/TSB.Security/TSB.Security/obj/Debug/netcoreapp2.0/TSB.Security.pdb
